@@ -14,4 +14,15 @@ _From a tutorial by @every_tuesday found on http://skillshare.com
   * **Texture: Frosted**
   * **Scaling: 140%**
   * *Do not invert*
-8.
+  * Zoom out using the + and - signs in the lower left corner to see a better view of the whole texture. 
+8. Change the Brightness and Contrast Settings
+  * Click **Window -> Adjustments** to view the Adjustments Window
+  * Click **Brightness/Contrast** (first tool in the first row)
+  * Set Brightness around 35 - 40
+9. Select both layers (the adjustment layer and the background layer) using *shift-click*, then *right-click* and choose **Merge Layers**
+10. Rename the layer as **Base Gold**.
+11. 
+
+Make it seamless
+Make it complex
+

@@ -26,3 +26,5 @@ _From a tutorial by @every_tuesday found on http://skillshare.com
 Make it seamless
 Make it complex
 
+Other important steps
+* Type: Pattern Overlay

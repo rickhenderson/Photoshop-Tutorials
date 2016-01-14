@@ -31,7 +31,17 @@ _From a tutorial by @every_tuesday found on http://skillshare.com
 
 ## Adding Some Complexity
 1. Duplicate the base layer and name the new layer **Complex**
-2. 
+2. Use Filter -> Oil Paint with the following settings
+  * Stylization: 4.21
+  * Cleanliness: 5
+  * Scale: 5.45
+  * Bristle Detail: 8.85
+  * Angular Direction: 279
+  * Shine: 3.8
+  * But of course, *experiment*!
+
+**Note: Oil Paint Filter was removed for the newer version of Photoshop CC6 so alternative process needs to be used.
+
 
 Other important steps
 * Type: Pattern Overlay

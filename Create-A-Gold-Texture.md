@@ -23,8 +23,15 @@ _From a tutorial by @every_tuesday found on http://skillshare.com
 10. Rename the layer as **Base Gold**.
 11. 
 
-Make it seamless
-Make it complex
+##Make it seamless
+1. **Filter -> Other -> Offset**
+2. Use the **stamp tool** to remove lines
+3. Change offset a few times to ensure lines are gone.
+4. Texture is now seamless!
+
+## Adding Some Complexity
+1. Duplicate the base layer and name the new layer **Complex**
+2. 
 
 Other important steps
 * Type: Pattern Overlay
